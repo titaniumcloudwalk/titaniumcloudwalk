@@ -26,7 +26,7 @@ Technology has been my playground since I was six, and it's where I turn complex
 ```yaml
 Username: Titanium
 Location: Brazil
-Philosophy: "First, solve the problem. Then, write the code."
+Philosophy: "First, solve the problem. Then, tell cursor."
 Hobbies:
   - CTF Competitions
   - Bug Bounties
